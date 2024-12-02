@@ -1,4 +1,4 @@
-# weblogic_nr
+# Weblogic NR
 
 Certainly! Below are the detailed steps for each of the tasks you’ve requested: installing WebLogic on a Linux machine, creating a WebLogic Managed Server, deploying a `helloworld.war` application, and installing the New Relic APM agent over it.
 
